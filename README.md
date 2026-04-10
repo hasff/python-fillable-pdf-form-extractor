@@ -190,6 +190,6 @@ The solution adapts to your existing forms — no redesign required, as long as 
 
 The PyMuPDF techniques used in this project — AcroForm field access, coordinate-based spatial filtering, widget inspection — are covered in depth in my course:
 
-[**Python PDF Manipulation: From Beginner to Winner (PyMuPDF)**](https://www.udemy.com/course/python-pymupdf-from-beginner-to-winner/?referralCode=C2B6754C01E7A4BFD374)
+[**Python PDF Manipulation: From Beginner to Winner (PyMuPDF)**](https://www.udemy.com/course/python-pdf-handling-from-beginner-to-winner/?referralCode=E7B71DCA8314B0BAC4BD)
 
 The repository is fully usable on its own. The course provides the deeper understanding behind the decisions made here — including how PDF coordinates work, how AcroForm fields are structured internally, and how to build robust document processing pipelines.
