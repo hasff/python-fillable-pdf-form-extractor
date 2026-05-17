@@ -184,6 +184,8 @@ The solution adapts to your existing forms — no redesign required, as long as 
 
 🌐 Courses and professional tools: https://hasff.github.io/site/
 
+🔗 LinkedIn: https://www.linkedin.com/in/hugo-ferro-1434b414/
+
 ---
 
 ## Further Learning
